@@ -1,0 +1,38 @@
+Package: notch
+Version: 1.8.0-1
+Architecture: amd64
+Maintainer: B. Gray <Brandon.Gray-EL@protonmail.com>
+Homepage: https://github.com/DEVBMGT
+Depends: python3 (>= 3.10), python3-gi, gjs, gir1.2-adw-1 (>= 1.4), gir1.2-gtk-4.0, gir1.2-secret-1, libwayland-client0, ca-certificates
+Suggests: gnome-shell (>= 46), gnome-shell (<< 51), gnome-shell-extension-prefs, wingpanel
+Priority: optional
+Section: utils
+Filename: pool/main/n/notch/notch_1.8.0-1_amd64.deb
+Size: 160692
+SHA256: cdbf2189c972800cb29ebe0808439d2390846d3e9757a53996e34c14f424b754
+SHA1: 9964d658c46587024eb04ce43eaf393434e497a3
+MD5sum: ffd8ac7fca73c76fdf15b2fa4ee19486
+Description: Notch AI usage widget for Ubuntu GNOME and Wayland
+ Independent Linux port maintained by B. Gray, originally derived from
+ vinzdg/codenotch, plus a settings divider,
+ AI selection, per-provider verification, usage tooltips,
+ read-only credential discovery, and native GNOME/Wayland integration.
+ Adds clock, date, weather, battery, and system-resource widgets, spring
+ animations, an optional resting sliver, and Pango-rendered text. Protocol-enabled
+ Wayland compositors use their negotiated panel protocol and unsupported
+ compositors exit safely.
+
+Package: notch-archive-keyring
+Version: 1.0.0
+Architecture: all
+Maintainer: B. Gray <Brandon.Gray-EL@protonmail.com>
+Priority: optional
+Section: admin
+Filename: pool/main/n/notch-archive-keyring/notch-archive-keyring_1.0.0_all.deb
+Size: 1988
+SHA256: 8c10d04cff659271e02c88816114f3b26916c709a4912c297c5f30a000d02ece
+SHA1: 5f2ad523a81b1b5246f29429e508f9ac1db3b957
+MD5sum: e934be2182763b587a3f06a0d5d84176
+Description: APT archive keyring for Notch
+ Trusted signing key and source configuration for the Notch Ubuntu package feed.
+
