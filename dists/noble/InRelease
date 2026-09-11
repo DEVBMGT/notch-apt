@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Notch
+Label: Notch
+Suite: noble
+Codename: noble
+Date: Fri, 11 Sep 2026 00:36:45 UTC
+Architectures: amd64
+Components: main
+Description: Signed Notch packages for Ubuntu Noble
+MD5Sum:
+ 746645dc9b5775ea1a9e72d02f40efac 1722 main/binary-amd64/Packages
+ b065ec2a8d343c897941e8c1838e312f 992 main/binary-amd64/Packages.gz
+ 31cdf8d9777b81aca297f45ff6015db7 130 main/binary-amd64/Release
+SHA1:
+ df4b34b248d2468418af1c13bbbb3835de324e02 1722 main/binary-amd64/Packages
+ 4a5dc856886cd64923a0a6e9b99a1ea8d4a3ad25 992 main/binary-amd64/Packages.gz
+ f104cf39e3b0260f9d5529bcd9b40e586e2d3daa 130 main/binary-amd64/Release
+SHA256:
+ e8c9b226830d6b7275a95cd296c06db5e0d7fc73ea7750cfbe2900617140240d 1722 main/binary-amd64/Packages
+ f44939610488abec22dce75f8be82faf3995b48cfa4c2d1fe0da0b809d6413de 992 main/binary-amd64/Packages.gz
+ cc4bec818bb3ab86a45ed468eb2f8c801756c8623e88050310e1f34a2a071dbd 130 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEFYVdKkrRkckEDwDl3wS2c8Zq2XcFAmqjTR0ACgkQ3wS2c8Zq
+2XfyzRAAtgw3myyqECmzGuh61AqXT10IyAVNq17MfTj55jcIhCl9m77f/BxVZBed
+UGDDRoEQYAkuHPjhlraCmcEqADzSaOydZQ2u5yunHrgC8i7UCc5FzOtXtPlr/nt1
+wkjQUdHUFZak+xSqllYJFOpbqLcVz0gCXU+YX8bchIF6SQ9hq7ybLneFgOx2sJMd
+2Ph0JymbB6OlJO+nKcWChp9O3But0DzhT4HSDYSwbGZKlTWGe44mLcjABcHd/Pui
+WNsfFv+SPHI4hQAcwlnHM3uIZKyG0S6LdGYnYQvpR5qYsFoNH/1sJCPFe8mcm9bv
+rC8dndk+5HevKUHo6jubsPF/Q7DOM50Y/rJLwQEBJhV1EW/f6VlppHnmqZOyXoWK
+oGG/cup7t+gXjN0PmZE7JjkoG4QoB1i4AC4ZW4HdYJbudBgW4enUzBjmwa9pvT9v
+kLBCVqiOVmMDhIDi5aVuS1gBGbKgFLexF6i0dKNaColc45aG3YJI8iQaGzZZa3l8
+iAPI0SS5BR3VGb+K93PSLbPDjxQKhC+Nc2y2vjFjZV0Bof7ZNpxQ7vc5spJN0X4R
+a0dI2cMCm7/S3flcX2FfVv/vAltexSG0J8DWdCXn3Ss4PyxJ0lCcTmAqXKBbo3op
+oJln2HMVt/WMRoJpcN54VQaoL+L3dz4FtsAFC8wVGx7gzct7rEo=
+=IUR3
+-----END PGP SIGNATURE-----

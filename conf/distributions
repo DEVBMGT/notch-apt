@@ -1,0 +1,8 @@
+Origin: Notch
+Label: Notch
+Suite: noble
+Codename: noble
+Architectures: amd64
+Components: main
+Description: Signed Notch packages for Ubuntu Noble
+SignWith: 15855D2A4AD191C9040F00E5DF04B673C66AD977

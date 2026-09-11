@@ -1,0 +1,6 @@
+Archive: noble
+Component: main
+Origin: Notch
+Label: Notch
+Architecture: amd64
+Description: Signed Notch packages for Ubuntu Noble
