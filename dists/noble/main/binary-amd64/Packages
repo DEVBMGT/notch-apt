@@ -8,10 +8,10 @@ Suggests: gnome-shell (>= 46), gnome-shell (<< 51), gnome-shell-extension-prefs,
 Priority: optional
 Section: utils
 Filename: pool/main/n/notch/notch_1.8.0-1_amd64.deb
-Size: 179416
-SHA256: 4cfca4f47158a9834f3274c8578b7fb29e4b44ee691adc3ca1dd2651b6b7a912
-SHA1: c63c8fcb376b8b76777f5bc04791908f82d78406
-MD5sum: 39c4a60abc100b0074b0de6878fb7304
+Size: 179482
+SHA256: 0a78f49e0b11132096b21c14cc4579297040e9aaff38c0127a31e4335922eb06
+SHA1: 9158de54ca47c97531e2cce0e6eb579f7f520d4e
+MD5sum: 69351495c7c4b0dbd06fb44759588a8c
 Description: Notch AI usage widget for Ubuntu GNOME and Wayland
  Independent Linux port maintained by B. Gray, originally derived from
  vinzdg/codenotch, plus a settings divider,
@@ -29,10 +29,10 @@ Maintainer: B. Gray <Brandon.Gray-EL@protonmail.com>
 Priority: optional
 Section: admin
 Filename: pool/main/n/notch-archive-keyring/notch-archive-keyring_1.0.0_all.deb
-Size: 2020
-SHA256: 48a082477451723c65928a63eef53f949e32135c6f858f4ac536485b55d8d0a6
-SHA1: 81b283c8c3c36e6b474eeffa8cfd24d2c0ff9404
-MD5sum: ea8c8f4a745dcabcd3b71be840a40c31
+Size: 2026
+SHA256: 8105a942a72dce6a32d0b2471df2a311499c36a2edd6e9257d0396520bbe9437
+SHA1: 6926979d7cf713af8336608e923ccd7737e1aa1b
+MD5sum: df960e3a9f04eeb5c8d435b138968405
 Description: APT archive keyring for Notch
  Trusted signing key and source configuration for the Notch Ubuntu package feed.
 

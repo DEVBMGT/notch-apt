@@ -2,19 +2,19 @@ Origin: Notch
 Label: Notch
 Suite: noble
 Codename: noble
-Date: Fri, 11 Sep 2026 00:36:45 UTC
+Date: Fri, 11 Sep 2026 00:56:18 UTC
 Architectures: amd64
 Components: main
 Description: Signed Notch packages for Ubuntu Noble
 MD5Sum:
- 746645dc9b5775ea1a9e72d02f40efac 1722 main/binary-amd64/Packages
- b065ec2a8d343c897941e8c1838e312f 992 main/binary-amd64/Packages.gz
+ ab265396dff209b932deb78d490ae82e 1722 main/binary-amd64/Packages
+ 73b6319dd53b1d724d4350db753e6154 991 main/binary-amd64/Packages.gz
  31cdf8d9777b81aca297f45ff6015db7 130 main/binary-amd64/Release
 SHA1:
- df4b34b248d2468418af1c13bbbb3835de324e02 1722 main/binary-amd64/Packages
- 4a5dc856886cd64923a0a6e9b99a1ea8d4a3ad25 992 main/binary-amd64/Packages.gz
+ 4e39c62001182dc1b9bca6e6f83e0b1ab57ce86b 1722 main/binary-amd64/Packages
+ ca93dfc832908b4233d7d758a25d7c24f968e868 991 main/binary-amd64/Packages.gz
  f104cf39e3b0260f9d5529bcd9b40e586e2d3daa 130 main/binary-amd64/Release
 SHA256:
- e8c9b226830d6b7275a95cd296c06db5e0d7fc73ea7750cfbe2900617140240d 1722 main/binary-amd64/Packages
- f44939610488abec22dce75f8be82faf3995b48cfa4c2d1fe0da0b809d6413de 992 main/binary-amd64/Packages.gz
+ 6ac33088a18fba62a1ea3aa04f3d7f1796f3a933b47aa63db5937c1a7b03d9ce 1722 main/binary-amd64/Packages
+ f515e406035f065bd9c471185a51568eb6c4d77f105fe2e2444e411947650f77 991 main/binary-amd64/Packages.gz
  cc4bec818bb3ab86a45ed468eb2f8c801756c8623e88050310e1f34a2a071dbd 130 main/binary-amd64/Release
